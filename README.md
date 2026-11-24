@@ -4,7 +4,7 @@ A modern, responsive task management web application that allows users to create
 
 ## Live Preview
 
-- [DEMO LINK](https://adadiada.github.io/todo_app)
+- [DEMO LINK](https://adadiada.github.io/Todo-App-with-API/)
 
 ## Technologies Used
 
